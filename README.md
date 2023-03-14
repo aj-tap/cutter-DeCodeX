@@ -3,6 +3,8 @@
 This is a plugin for Cutter, that integrates OpenAI to provide insights that is useful in reverse engineering. 
 offers code annotation and spots anomalies in basic static information of the binary.
 
+![DecodeX.GIF](assets/DecodeX.GIF)
+
 ### Binary Insights (looks for anomaly) 
 
 ![img_3.png](assets/img_3.png)
