@@ -5,7 +5,7 @@ offers code annotation and spots anomalies in basic static information of the bi
 
 ![DecodeX.GIF](assets/DecodeX.GIF)
 
-### Binary Insights (looks for anomaly) 
+### Binary Insights
 
 ![img_3.png](assets/img_3.png)
 
@@ -16,10 +16,12 @@ offers code annotation and spots anomalies in basic static information of the bi
 ![img_4.png](assets/img_4.png)
 
 
-### Code refactoring and rewriting in Python
+### Code Refactoring and Rewriting in Python
 
 ![img_2.png](assets/img_2.png)
 
+
+---
 
 ## Requirements
 - Linux Distro 
